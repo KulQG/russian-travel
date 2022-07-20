@@ -8,3 +8,11 @@
         width: 690px
     }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .intro {
+        min-width: 720px;
+        width: calc(100% - 24px*2);
+        align-self: center;
+    }
+}

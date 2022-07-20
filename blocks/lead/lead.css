@@ -10,9 +10,13 @@
 @media screen and (max-width: 1279px) and (min-width: 1024px) {
     .lead {
         min-width: 928px;
-<<<<<<< HEAD
-=======
         width: 100%;
->>>>>>> main
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .lead {
+        min-width: 768px;
+        width: 100%;
     }
 }

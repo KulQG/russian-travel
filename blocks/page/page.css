@@ -20,3 +20,9 @@ section, div, p, h1, h2, input, img, header, footer, main {
         min-width: 1024px;
     }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .page {
+        min-width: 768px;
+    }
+}
