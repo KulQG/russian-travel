@@ -6,16 +6,22 @@
     width: 984px;
 }
 
-@media screen and (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1279px){
     .content {
         min-width: 928px;
         width: calc(100% - (48px*2));
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
     .content {
-        width: 100%;
+        min-width: 100%;
         row-gap: 88px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .content {
+        row-gap: 64px;
     }
 }

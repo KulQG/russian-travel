@@ -1,8 +1,6 @@
 .cover__overlay {
     min-width: 1184px;
-    min-height: 740px;
-    max-width: 1184px;
-    max-height: 740px;
+    height: 740px;
     width: 100%;
     background-color: rgba(42, 44, 47, .3);
     display: flex;
@@ -17,17 +15,21 @@
     opacity: 80%;
 }
 
-@media screen and (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .cover__overlay {
         min-width: 1024px;
-        width: 100%;
         max-width: 1184px;
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen  and (max-width: 1023px) {
     .cover__overlay {
-        width: 100%;
         min-width: 768px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover__overlay {
+        min-width: 100%;
     }
 }

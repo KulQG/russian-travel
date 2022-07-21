@@ -7,3 +7,14 @@
     margin-bottom: 64px;
     font-weight: 400;
 }
+
+@media screen and (max-width: 767px) {
+    .lead__subtitle {
+        min-height: 40px;
+        min-width: 288px;
+        width: calc(100% - 16px*2);
+        margin-bottom: 40px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+}

@@ -1,18 +1,19 @@
 .intro {
-    width: 690px;
+    max-width: 690px;
     align-self: flex-start;
 }
 
-@media screen and (max-width: 1279px) and (min-width: 1024px) {
-    .intro {
-        width: 690px
-    }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen  and (max-width: 1023px) {
     .intro {
         min-width: 720px;
         width: calc(100% - 24px*2);
         align-self: center;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .intro {
+        min-width: 288px;
+        width: calc(100% - 16px*2);
     }
 }
