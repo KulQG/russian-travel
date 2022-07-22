@@ -25,7 +25,7 @@
 
 @media screen  and (max-width: 1023px) {
     .cover__overlay {
-        min-width: 768px;
+        min-width: 100%;
         max-width: 1024px;
         min-height: 480px;
     }
@@ -33,7 +33,6 @@
 
 @media screen and (max-width: 767px) {
     .cover__overlay {
-        min-width: 320px;
         max-width: 768px;
         min-height: 200px;
     }
