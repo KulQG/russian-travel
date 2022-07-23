@@ -18,8 +18,7 @@
 
 @media screen  and (max-width: 1023px) {
     .photo-grid {
-        min-width: 720px;
-        max-width: calc(100% - 24px*2);
+        width: calc(100% - 24px*2);
         grid-template-columns: repeat(2, minmax(min-content, 1fr));
         grid-template-rows: repeat(6, minmax(min-content, 1fr));
     }

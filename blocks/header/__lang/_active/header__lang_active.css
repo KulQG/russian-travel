@@ -1,5 +1,4 @@
-.link_active {
-    margin: 0;
+.header__lang_active {
     text-decoration: underline;
     text-decoration-color: white;
     color: white;

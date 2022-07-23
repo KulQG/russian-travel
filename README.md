@@ -8,7 +8,7 @@
 Кстати о ссылках... 
 <br><hr>
 Ссылки:
-Places
+place
 1. [Куршская коса](http://park-kosa.ru)
 2. [Кольский](https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy)
 3. [Алтай](https://www.facebook.com/vera.bashmakova/posts/10156011613718822)
