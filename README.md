@@ -6,7 +6,6 @@
 3. BEM (Методолгия БЭМ)
 4. Адаптивная вёрстка
 ### Ссылки:
-place
 1. [Куршская коса](http://park-kosa.ru)
 2. [Кольский](https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy)
 3. [Алтай](https://www.facebook.com/vera.bashmakova/posts/10156011613718822)
@@ -19,7 +18,9 @@ place
 10. [Календарь](https://calendar.yandex.ru)
 11. [Путешествия](https://travel.yandex.ru)
 ## Запуск
-```git clone ```
+1. Клонируйте репозиторий
+```git clone git@github.com:KulQG/russian-travel.git```
+
 <br><hr>
 Статус: **готов к проверке**!
 
