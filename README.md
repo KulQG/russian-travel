@@ -20,7 +20,9 @@
 ## Запуск
 1. Клонируйте репозиторий
 ```git clone git@github.com:KulQG/russian-travel.git```
-
-<br><hr>
+2. Откройте проект с помощью IDE
+3. Запустите проект на локальном сервере с помощью расширения IDE - ***Live Server***
+### Cсылка на проект
+[GitHub Pages](https://kulqg.github.io/russian-travel/)
 Статус: **готов к проверке**!
 
