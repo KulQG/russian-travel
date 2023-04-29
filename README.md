@@ -3,8 +3,9 @@
 ## Технологии
 1. HTML5
 2. CSS3
-3. BEM (Методолгия БЭМ)
-4. Адаптивная вёрстка
+3. Flexbox && GridLayot
+4. BEM (Методолгия БЭМ)
+5. Адаптивная вёрстка
 ## Ссылки:
 1. [Куршская коса](http://park-kosa.ru)
 2. [Кольский](https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy)
