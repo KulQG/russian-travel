@@ -5,7 +5,7 @@
 2. CSS3
 3. BEM (Методолгия БЭМ)
 4. Адаптивная вёрстка
-### Ссылки:
+## Ссылки:
 1. [Куршская коса](http://park-kosa.ru)
 2. [Кольский](https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy)
 3. [Алтай](https://www.facebook.com/vera.bashmakova/posts/10156011613718822)
@@ -23,6 +23,6 @@
 2. Откройте проект с помощью IDE
 3. Запустите проект на локальном сервере с помощью расширения IDE - ***Live Server***
 ### Cсылка на проект
-[GitHub Pages](https://kulqg.github.io/russian-travel/)
+[GitHub Pages](https://kulqg.github.io/russian-travel/)<br><hr>
 Статус: **готов к проверке**!
 
